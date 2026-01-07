@@ -1,4 +1,4 @@
-import carService from "../services/cars.js"
+import carService from "../services/cars.service.js"
 class CarController{
     constructor(){}
 

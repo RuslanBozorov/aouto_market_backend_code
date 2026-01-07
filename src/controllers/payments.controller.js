@@ -1,4 +1,4 @@
-import paymentsService from "../services/payments.js"
+import paymentsService from "../services/payments.service.js"
 class PaymentController{
     constructor(){}
     async getAllPayments(req,res){

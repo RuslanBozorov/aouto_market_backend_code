@@ -10,6 +10,8 @@ app.use(indexRouter.carRouter)
 app.use(indexRouter.customerRouter)
 app.use(indexRouter.orderRouter)
 app.use(indexRouter.paymentRouter)
+app.use(indexRouter.searchRouter)
+
 
 
 

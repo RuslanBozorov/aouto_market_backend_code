@@ -1,5 +1,5 @@
 
-import customerService from "../services/customers.js"
+import customerService from "../services/customers.service.js"
 class CustomerController{
     constructor(){}
 

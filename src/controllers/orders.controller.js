@@ -1,4 +1,4 @@
-import ordersService from "../services/orders.js"
+import ordersService from "../services/orders.service.js"
 class OrderController{
     constructor(){}
     async getAllOrders(req,res){
